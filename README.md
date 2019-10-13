@@ -24,6 +24,7 @@ Agenda:
 
 Prerequisites:
 - laptop and charger
+- Github account
 - preferable an Azure subscription (we have 25 passes for people that haven't got one)
 - based on what you want to work on: Visual Studio, Power BI, Python enviroment, etc.
 
